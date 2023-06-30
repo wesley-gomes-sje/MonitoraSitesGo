@@ -1,5 +1,5 @@
 # MonitoraSitesGo v1.0
-Primeiro projeto desenvolvido com a linguagem Go, com o objetivo de aprendizado, o projeto constitui em realizar o monitoramento do status de alguns sites, registrar seus logs em uma arquivo .txt, fazer a leitura desse arquivo e exibir os logs para o usuário no terminal. 
+Este é o meu primeiro projeto desenvolvido em linguagem Go, com o objetivo de aprendizado. O projeto consiste em monitorar o status de diversos sites, registrar os logs em um arquivo .txt, realizar a leitura desse arquivo e exibir os logs para o usuário no terminal.
 
 
 ## Sobre a linguagem: 
