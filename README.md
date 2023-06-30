@@ -7,7 +7,7 @@ Este é o meu primeiro projeto desenvolvido em linguagem Go, com o objetivo de a
 Go é uma linguagem de programação desenvolvida pelo Google, que surgiu de um problema que os engenheiros da época enfrentavam no processo de compilar seus sistemas desenvolvidos em C++ e em C, seu processo de gerar um executável era complicado e demorado. Como solução resolveram criar essa nova linguagem.
 
 Seu diferencial das outras linguagens é que seu  processo de compilação é bem mais rápido que as demais. Outro ponto forte é sua modularização, tendo suas funcionalidades espalhadas em pacotes, que são importados na nossa aplicação conforme a nossa necessidade.
-Outro aspecto é sua sintaxe possuir em torno de apenas 25 palavras-chaves, te tornado uma linguagem com uma sintaxe bem curta, fazendo com que o código fique simples de entender.
+Outro aspecto é sua sintaxe possuir em torno de apenas 25 palavras-chaves, se tornado uma linguagem com uma sintaxe bem curta, fazendo com que o código fique simples de entender.
 
 
 ## Para rodar o projeto:
